@@ -1,0 +1,4 @@
+package com.crud.ci_cd.emissor_pizaria.domain.bebida;
+
+public class BebidaDTO {
+}
